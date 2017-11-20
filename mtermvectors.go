@@ -11,7 +11,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/olivere/elastic/uritemplates"
+	"github.com/asappinc/elastic/uritemplates"
 )
 
 // MultiTermvectorService returns information and statistics on terms in the

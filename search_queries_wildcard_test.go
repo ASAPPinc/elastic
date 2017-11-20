@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/olivere/elastic"
+	"github.com/asappinc/elastic"
 )
 
 func ExampleWildcardQuery() {
